@@ -14,13 +14,15 @@
 <p>知乎: <a href="#" rel="nofollow"> 还未更新</a></p>
 </li>
 </ul>
-
+# 说明
+本项目在Github上的地址:  https://github.com/fank1314/Nitrohe_blog-Article
+本项目作者：@LeeSlow Fank
 <h3>项目截图</h3>
     <p>本人页面设计水平太差，先随便设计点效果出来主要是演示后台程序功能，所以页面设计先暂时放一放。 </p>
     <h4>用户登录界面：</h4>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png" alt="用户登录页面" data-canonical-src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png" style="max-width:100%;">
     <p>小明登录：</p>
-    <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" alt="用户登录页面" data-canonical-src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" style="max-width:100%;">    
+    <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" alt="小明登录" data-canonical-src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" style="max-width:100%;">    
     <h4>登录成功：</h4> 
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-finish.png" alt="登录成功" style="max-width:100%;">  
     <h4>后台管理系统：</h4> 
