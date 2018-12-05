@@ -18,4 +18,4 @@
 <h3>项目截图</h3>
     <p>本人页面设计水平太差，先随便设计点效果出来主要是演示后台程序功能，所以页面设计先暂时放一放。 </p>
     <h4>用户注册</h4>
-   ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+    ![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
