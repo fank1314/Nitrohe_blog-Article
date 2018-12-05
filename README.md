@@ -19,7 +19,7 @@
     <p>本人页面设计水平太差，先随便设计点效果出来主要是演示后台程序功能，所以页面设计先暂时放一放。 </p>
     <h4>用户登录界面：</h4>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png" alt="用户登录页面" data-canonical-src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png" style="max-width:100%;">
-    ####小明登录：
+    <p>小明登录：</p>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" alt="用户登录页面" data-canonical-src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-xiaoming.png" style="max-width:100%;">    
     <h4>登录成功：</h4> 
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login-finish.png" alt="登录成功" style="max-width:100%;">  
@@ -36,9 +36,9 @@
     <h4>后台备案设定：</h4> 
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/config.png" alt="后台备案设定" style="max-width:100%;">       
     <h3>前端页面展示：</h3>
-    ###新闻页面
+    <p>新闻页面</p>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/index.png" alt="新闻页面" style="max-width:100%;"> 
-     ###博客
+     <p>博客</p>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/index-blog.png" alt="博客" style="max-width:100%;">    
     
     
