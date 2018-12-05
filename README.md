@@ -18,4 +18,4 @@
 <h3>项目截图</h3>
     <p>本人页面设计水平太差，先随便设计点效果出来主要是演示后台程序功能，所以页面设计先暂时放一放。 </p>
     <h4>用户注册</h4>
-    ![](https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png)
+    <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/login.png" alt="用户注册页面" data-canonical-src="http://og1mqilfp.bkt.clouddn.com/web-user-register.jpg" style="max-width:100%;">
