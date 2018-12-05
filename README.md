@@ -44,6 +44,3 @@
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/index.png" alt="新闻页面" style="max-width:100%;"> 
      <p>博客</p>
     <img src="https://github.com/fank1314/Nitrohe_blog-Article/blob/master/index-blog.png" alt="博客" style="max-width:100%;">    
-    
-    
-    
